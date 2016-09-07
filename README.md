@@ -18,6 +18,8 @@ $ omf install git-loc
 
 ## Usage
 
+![Demo](./resources/demo.png)
+
 ```fish
 $ git-loc
 ```
